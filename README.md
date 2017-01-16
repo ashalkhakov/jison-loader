@@ -1,5 +1,9 @@
 # Jison loader for webpack
 
+## Jison
+
+[Jison](http://zaa.ch/jison/about/) is a parser generator for JS.
+
 ## Usage
 
 [Documentation: Using loaders](http://webpack.github.io/docs/using-loaders.html)
@@ -17,7 +21,7 @@ module.exports = {
     rules: [
       {
         test: /\.jison$/,
-        use: "jison-loadere"
+        use: "jison-loader"
       }
     ]
   }

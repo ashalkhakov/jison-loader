@@ -1,0 +1,26 @@
+{
+  "name": "jison-loader",
+  "version": "1.0.0",
+  "description": "Jison preprocessor/loader for WebPack (preprocesses files using Jison)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashalkhakov/jison-loader.git"
+  },
+  "peerDependencies": {
+    "jison": "^0.4.17"
+  },
+  "devDependencies": {
+    "jison": "^0.4.17"
+  },
+  "keywords": [
+    "jison",
+    "webpack"
+  ],
+  "author": "Artyom Shalkhakov",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ashalkhakov/jison-loader/issues"
+  },
+  "homepage": "https://github.com/ashalkhakov/jison-loader#readme"
+}
